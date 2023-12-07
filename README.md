@@ -1,1 +1,1 @@
-# jindu
+#MachineLearning Notes
